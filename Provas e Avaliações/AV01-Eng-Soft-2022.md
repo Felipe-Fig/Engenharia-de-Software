@@ -1,4 +1,6 @@
 	
+### Após a submissão dessas respostas algumas questões foram dadas como erradas pela plataforma porém não foram informadas quais estavam erradas. Pesquisei na internet e todas as minhas respostas estão tanto de acordo com o material quanto de acordo com questões similares disponíveis na internet.
+
 1) O Manifesto Ágil é o embasamento filosófico de todos os métodos ágeis e diversos métodos de desenvolvimento de software estão alinhados a ele.
 
 Fonte: GOMES, André Faria. Agile: desenvolvimento de software com entregas frequentes e foco no valor do negócio. Edição Eletrônica: Casa do Código, 2013
@@ -54,7 +56,7 @@ Alternativas:
 
 A figura que segue representa operações realizadas pelo CVS e os números nela colocados substituem o nome dessas operações.
 
-![Operações realizadas pelo CVS.](link)
+![Operações realizadas pelo CVS.](https://github.com/Felipe-Fig/Engenharia-de-Software/blob/master/Provas%20e%20Avalia%C3%A7%C3%B5es/av01%20eng%20soft%20img%201.jpg?raw=true)
 
 De acordo com o funcionamento do CVS expresso na figura, faça a associação dos números contidos na Coluna A com suas respectivas descrições na Coluna B. 
 
@@ -88,13 +90,14 @@ Alternativas:
 
 ---
 
-4) Considerando o tratamento dado pelo CVS às versões de um programa geradas a cada alteração, avalie as afirmativas que seguem:
+4) Considerando o tratamento dado pelo CVS (Concurrent Version System) às versões de um programa geradas a cada alteração, avalie as afirmativas que seguem:
 
 I. A cada alteração feita no programa corresponde um novo número de versão gerado pelo CVS.
 
 II. A geração de uma nova versão pelo CVS está sujeita a alteração de, ao menos, uma unidade completa do programa.
 
-III. A cada checkout feito pelo CVS corresponde uma nova versão do produto criada automaticamente.
+III. A cada checkout (sincronização) feito pelo CVS corresponde uma nova versão do produto criada automaticamente.
+
 Considerando o contexto apresentado, assinale a alternativa correta.
 
 Alternativas:
@@ -105,7 +108,15 @@ Alternativas:
     d) Apenas as afirmativas I e II são corretas.
     e) Apenas a afirmativa II é correta.
 
-5) Quando uma versão de pré-lançamento do software está pronta, o time de desenvolvimento à entrega ao time de gerenciamento da qualidade, que verifica se a qualidade do sistema é aceitável.  A aprovação do setor de qualidade deve ser a etapa final antes de qualquer liberação de produto ao cliente.
+**Gabarito: c) Apenas a afirmativa I é correta.**
+
+>O CVS é ​​um 'software' de código aberto que dá a possibilidade de gerenciar as alterações contidas no código-fonte de qualquer arquivo, seja em: C, C++, Java, HTML, XML e até diferentes versões de arquivos executáveis ​​("binários").<br>
+Uma das vantagens que o CVS pode proporcionar é que não há necessidade de armazenar todas as versões completas do arquivo, ou seja, o repositório ainda é armazenado onde são referenciadas diferentes versões master de cada arquivo. O repositório não pode ser acessado diretamente, os arquivos são atualizados a partir de uma cópia do repositório.<br>
+Qualquer usuário que deseje acessar um arquivo específico, faça uma cópia útil do repositório, faça as alterações correspondentes no arquivo e, quando terminar, atualize o repositório.
+
+---
+
+5) Quando uma versão de pré-lançamento do software está pronta, o time de desenvolvimento à entrega ao time de gerenciamento da qualidade, que verifica se a qualidade do sistema é aceitável. A aprovação do setor de qualidade deve ser a etapa final antes de qualquer liberação de produto ao cliente.
 
 Assinale a alternativa que contém a correta descrição de release.
 
@@ -117,3 +128,9 @@ Alternativas:
     d) Sistema ou unidade ainda não completa o suficiente para se tornar uma versão.
     e) Nome que se dá a primeira versão de qualquer produto de software.
 
+**Gabarito: a) Trata-se da versão do software enviada ao time de controle de qualidade.**
+
+>O release de um software é a versão do software que é enviada ao time de controle de qualidade para ser avaliada.<br>
+Quando um software chega em uma versão aceitável, seja ela de pré-lançamento ou mesmo de um upgrade de funções, os releases são fundamentais para que sirvam como marco de desenvolvimento daquele software, é uma versão especificada que tem características que são marcantes no desenvolvimento do mesmo, seja de novas fundacionalidades ou até mesmo do lançamento geral do software.
+
+---
