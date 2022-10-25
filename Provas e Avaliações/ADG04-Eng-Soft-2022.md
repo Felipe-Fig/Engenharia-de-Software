@@ -46,7 +46,7 @@ Alternativas:
 
 3) O ataque de SQL Injection é uma técnica de intrusão de sistemas na qual o agressor utiliza as instruções SQL em campos de formulário e URL, a fim de se obter dados ou apenas danificar o banco de dados e consequentemente o sistema.
 
-![Figura 01 – Exemplo de ataque SQL Injection.](link)
+![Figura 01 – Exemplo de ataque SQL Injection.](https://github.com/Felipe-Fig/Engenharia-de-Software/blob/master/Provas%20e%20Avalia%C3%A7%C3%B5es/adg04%20eng%20soft%20fig%201.png?raw=true)
 
 Fonte: elaborado pelo autor.
 
