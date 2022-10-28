@@ -185,15 +185,15 @@ Assinale a alternativa correta:
 
 ### **Questão 13**
 
-https://www.notion.so/Teorias-
-4a010b2960ad494eb23a4da841271442#20897490bdd4416db0dee87ddbf0e762
-
 A fase de requisitos de software preocupa-se com a descoberta, análise, especificação e validação das propriedades que devem ser apresentadas para resolver tarefas relacionadas a software que será desenvolvido.
 
 Sobre o levantamento de requisitos, assinale a alternativa correta:
 
 **Gabarito: etapa em que as condições e restrições do software, exigidas pelo cliente, são repassadas à empresa de desenvolvimento.**
 
+>No que se diz respeito à desenvolvimento de softwares, a qualidade visa basicamente atender as necessidades e expectativas do cliente, a fim de cumprir os requisitos acordados no início do projeto de desenvolvimento de software. O tema é bem mais abrangente do que essa simples definição e é isso que torna os assuntos relacionados à qualidade de software de extrema importância para os  profissionais de T.I.<br><br>
+Segundo Zanin *et al.* (2018), a qualidade de software está ligada aos aspectos de conformidade com os requisitos funcionais e não funcionais encontrados nos desenvolvimentos de softwares.<br><br>
+Diz respeito aos métodos, às ferramentas, às metodologias e aos processos os quais garantirão que determinada entrega seja feita dentro dos padrões de qualidade estabelecidos entre as partes. Todo esse processo se inicia no levantamento de requisitos, quando o cliente passa para a equipe de desenvolvimento todas as suas necessidades.
 ---
 
 ### **Questão 14**
