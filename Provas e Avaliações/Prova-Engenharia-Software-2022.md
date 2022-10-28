@@ -74,81 +74,72 @@ Assinale a alternativa que completa as lacunas corretamente:
 
 ---
 
-6
-0é
-um modelo de referência voltado às empresas brasileiras, criado no ano de 2003 pela
-SOFTEX, em parceria com o Governo Federal e pesquisadores.
+### **Questão 6**
+0 ______ é um modelo de referência voltado às empresas brasileiras, criado no ano de 2003 pela SOFTEX, em parceria com o Governo Federal e pesquisadores.
+
 Agora, assinale a alternativa que completa corretamente as lacunas:
-Mps.br
 
-https://www.notion.so/Teorias-
-4a010b2960ad494eb23a4da841271442#8a2402eaffc74f4caa2b9068ad008e5a
+**Gabarito: MPS.BR**
+
+>Dentro da *qualidade de processo do software* existe o assunto *Melhoria de Processos de Software Brasileiro* ou MPS.BR.<br><br>
+No Brasil, nós possuímos uma ferramenta que possibilita a melhoria dos processos de softwares brasileiros. Porém, isso não significa que as suas normas sejam melhores ou piores que outras, pois estas seguem padrões internacionais de qualidade de processos. Aqui no País, a entidade que faz a gestão do MPS.BR é a Softex, responsável por apoiar a cultura da qualidade de software e por  contribuir com a melhoria contínua dos processos/produto de software.
+
 
 ---
 
-7
+### **Questão 7**
 
-Questão 7
-Com relação aos models de ciclo de vida de processo de software se pode concluir que delimitam de
-forma subjetiva, mas que auxilia na gestão da evolução do início ao final de um projeto. Os modelos
-de
-Ciclo de Vida de processo de software são descrições abstratas do processo de desenvolvimento,
-mostrando as principais atividades e informações usadas a produção e manutenção de software, bem
-como a ordem em que as atividades devem ser executadas. Analise as seguintes asserções.
+Com relação aos modelos de ciclo de vida de processo de software se pode concluir que delimitam de forma subjetiva, mas que auxilia na gestão da evolução do início ao final de um projeto. Os modelos de Ciclo de Vida de processo de software são descrições abstratas do processo de desenvolvimento, mostrando as principais atividades e informações usadas a produção e manutenção de software, bem como a ordem em que as atividades devem ser executadas. Analise as seguintes asserções.
+
 I- O modelo de desenvolvimento em cascata considera que o processo é composto por várias etapas
-que
-são executadas de forma sistemática e sequencial
-PORQUE
-NIl - acrescenta aspectos gerenciais (planejamento, controle e tomada de decisão) ao processo de
-desenvolvimento de software.
-Ácerca dessas asserções, assinale a opção correta,
-I V e II F
-Modelos de ciclo de vida de processo de software ... - Brainly https://brainly.com.br › tarefa
-8
-O ciclo de vida de um projeto é constituído pelas fases dele, que devem ser cumpridas, numa ordem
-lógica,
-para que alcance seu resultado esperado. Ele é composto pelas fases de iniciação, planejamento,
-execução
-do trabalho e encerramento do projeto.
-Ações que acontecem em cada tapa do projeto
-Fase
-(1) Iniciação
-() Acontece o monitoramento e controle das tarefas.
-(2) Planejamento () contece o arquivamento de todos os documentos do projeto.
-(3) Execução do
-() Acontece a definição e seleção de um projeto.
-trabalho
-() Acontece a determinação do que deverá ser feito, como será feito, quem fará,
-(4) Encerramento quanto tempo demorará, quanto custará e quais são os riscos envolvidos no
-projeto.
-Assumindo que a iniciação tem o número 1, o planejamento tem o número 2, a execução do trabalho
-é
-número 3 e o encerramento é o número 4, qual seria a ordem correta dos números que se encaixaria,
-na
-tabela apresentada, nas ações que acontecem em cada uma das tapas do ciclo de vida do projeto?
-As 4 fases do ciclo de vida da gestão de projetos - Lucidchart https://www.lucidchart.com › blog ›
-4-fases-do-ciclo-d...
+que são executadas de forma sistemática e sequencial
 
-3-4-1-2
+PORQUE
+
+II - acrescenta aspectos gerenciais (planejamento, controle e tomada de decisão) ao processo de
+desenvolvimento de software.
+
+Acerca dessas asserções, assinale a opção correta:
+
+**Gabarito: A assertiva I é verdadeira e a assertiva II é falsa.**
+
+>O modelo de desenvolvimento em cascata retrata uma metodologia de desenvolvimento de software, criada em 1970. A principal característica sobre o desenvolvimento em cascata é a divisão por etapas predeterminadas.<br><br>
+Ou seja, esse modelo de desenvolvimento acontece em cinco etapas, são elas:<br><br>
+    Levantamentos de requisitos;<br>
+    Projeto;<br>
+    Implementação;<br>
+    Realização de testes;<br>
+    Manutenção do sistema.<br><br>
+Esses requisitos são muito importantes para o bom andamento do desenvolvimento do projeto em cascata.
 
 ---
 
-9
-Diante das grandes demandas em sistemas cada vez mais aderida aos negócios organizacionais, o
-gerente
-de projetos de software AKATO está melhorando o seu processo de desenvolvimento, Segundo o
-conceito
-'"Conjunto de procedimentos formais documentados, usados para aplicar orientação e supervisão
-técnicas
-e administrativas para: identificar e documentar as características funcionais e fisicas de um produto,
-resultado, serviço ou componente; controlar quaisquer mudanças feitas nessas características;
-registrar e
-relatar cada mudança e o andamento de sua implementação; e dar suporte à auditoria dos produtos,
-resultados ou componentes para verificar a conformidade com os requisitos"
+### **Questão 8**
+
+O ciclo de vida de um projeto é constituído pelas fases dele, que devem ser cumpridas, numa ordem lógica, para que alcance seu resultado esperado. Ele é composto pelas fases de iniciação, planejamento, execução do trabalho e encerramento do projeto.
+
+| Ações que acontecem em cada etapa do projeto | Fase |
+|--------------|------------|
+|(1) Iniciação|() Acontece o monitoramento e controle das tarefas.|
+|(2) Planejamento | () contece o arquivamento de todos os documentos do projeto.|
+|(3) Execução do trabalho| () Acontece a definição e seleção de um projeto.
+|(4) Encerramento quanto tempo demorará, quanto custará e quais são os riscos envolvidos no projeto.|() Acontece a determinação do que deverá ser feito, como será feito, quem fará|
+
+Assumindo que a iniciação tem o número 1, o planejamento tem o número 2, a execução do trabalho é número 3 e o encerramento é o número 4, qual seria a ordem correta dos números que se encaixaria, na tabela apresentada, nas ações que acontecem em cada uma das tapas do ciclo de vida do projeto?
+
+**Gabarito: 3-4-1-2**
+
+---
+
+### **Questão 9**
+
+Diante das grandes demandas em sistemas cada vez mais aderida aos negócios organizacionais, o gerente de projetos de software AKATO está melhorando o seu processo de desenvolvimento, Segundo o conceito '"Conjunto de procedimentos formais documentados, usados para aplicar orientação e supervisão técnicas e administrativas para: identificar e documentar as características funcionais e fisicas de um produto, resultado, serviço ou componente; controlar quaisquer mudanças feitas nessas características; registrar e relatar cada mudança e o andamento de sua implementação; e dar suporte à auditoria dos produtos, resultados ou componentes para verificar a conformidade com os requisitos".
+
 Assinale a alternativa que indica corretamente o sistema a que o texto se refere;
-Sistema de gerenciamento de configuração
-Definição de Termo: Sistema de gerenciamento de configuraçãohttps://www.trt7.jus.br › files ›
-guidances › termdefinitions
+
+**Gabarito: Sistema de gerenciamento de configuração**
+
+>Não encontrei nada sobre no material. Quem tiver por favor enviar.
 
 ---
 
@@ -158,8 +149,11 @@ do
 processo. O model cascata de desenvolvimento, por exemplo, apresenta fases bem definidas, quais
 sejam
 a fase dos requisitos, a fase do projeto, da programação e assim por diante (WAZLAWICK, 2013).
+
 Assinale a alternativa que contempla as fases do modelo Cascata:
+
 Fases são um conjunto de atividades afins e com objetivos ...https://brainly.com.br › tarefa
+
 Requisitos, projeto, implementacao, teste, manutencao
 
 ---
