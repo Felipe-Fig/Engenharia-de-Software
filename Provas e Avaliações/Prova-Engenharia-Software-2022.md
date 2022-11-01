@@ -1,8 +1,28 @@
-# Questões Prova **AINDA NÃO CORRIGIDAS**
+# Questões Prova - Corrigidas
 ## Engenharia de Software
 ---
 
 ### Qualquer apontamento é só abrir um *issue* com o material a ser adicionado. Respostas e matéria que explique a questão são bem-vindos.
+---
+
+### **Questão 1**
+
+Os esforços de desenvolvimento de um software resultam na entrega de um produto que satisfaça os requisitos do usuário. Espera-se, contudo, que o software sofra alterações e evolua. Uma vez em operação, defeitos são descobertos, ambientes operacionais mudam, e novos requisitos dos usuários vêm à tona. A manutenção é parte integrante do ciclo de vida do software e deve receber o mesmo grau de atenção que outras fases.
+
+Acerca da fase de Manutenção de Software, analise os itens a seguir:
+
+I – Fase de manutenção e a que antecede a construção do software.
+
+II – Nesta fase, um dos objetivos é melhorar o desempenho do software.
+
+III – Por meio desta fase é que se adapta o produto à um ambiente diferente daquele para o qual ele foi construído.
+
+IV – A fase de manutenção permite, desde que possível, que sejam adicionados requisitos pertinentes para o usuário.
+
+Assinale a alternativa correta:
+
+**Gabarito: B) Somente os itens II, III e IV estão corretos.**
+
 ---
 
 ### **Questão 2**
@@ -19,7 +39,7 @@ II.existem casos onde o contratante do desenvolvimento do software se beneficia 
 
 Assinale a alternativa correta;
 
-**Gabarito: **
+**Gabarito: A) A segunda complementa a primeira e as duas são Verdadeiras.**
 
 ---
 
@@ -41,7 +61,7 @@ V. O software é dificil de usar, entender ou, na visão do testador, pode ser v
 
 Escolha a alternativa correta:
 
-**Gabarito: **
+**Gabarito: D) Todas são verdadeiras.**
 
 ---
 
@@ -75,6 +95,7 @@ Assinale a alternativa que completa as lacunas corretamente:
 ---
 
 ### **Questão 6**
+
 0 ______ é um modelo de referência voltado às empresas brasileiras, criado no ano de 2003 pela SOFTEX, em parceria com o Governo Federal e pesquisadores.
 
 Agora, assinale a alternativa que completa corretamente as lacunas:
@@ -83,7 +104,6 @@ Agora, assinale a alternativa que completa corretamente as lacunas:
 
 >Dentro da *qualidade de processo do software* existe o assunto *Melhoria de Processos de Software Brasileiro* ou MPS.BR.<br><br>
 No Brasil, nós possuímos uma ferramenta que possibilita a melhoria dos processos de softwares brasileiros. Porém, isso não significa que as suas normas sejam melhores ou piores que outras, pois estas seguem padrões internacionais de qualidade de processos. Aqui no País, a entidade que faz a gestão do MPS.BR é a Softex, responsável por apoiar a cultura da qualidade de software e por  contribuir com a melhoria contínua dos processos/produto de software.
-
 
 ---
 
@@ -179,7 +199,7 @@ II - São mais focados nas pessoas envolvidas no desenvolvimento.
 
 Assinale a alternativa correta:
 
-**Gabarito: ambas verdadeiras porém a II não justifica a I.**
+**Gabarito: B) As duas asserções são verdadeiras, e a segunda justifica a primeira.**
 
 ---
 
@@ -210,7 +230,7 @@ III - A metodologia ágil recomenda que o cliente acompanhe o estado do software
 
 Assinale a alternativa correta:
 
-**Gabarito: somenta a III está correta.**
+**Gabarito: C) Todos os itens estão corretos.**
 
 >Fico na dúvida se não são todas as corretas. Vou aguardar o gabarito sair para atualizar.<br>
 Consta no [Brainly](https://brainly.com.br/tarefa/39406166) mas também com respostas divergente pra quem quiser olhar.
@@ -248,7 +268,7 @@ III - Uma maneira de realizar a verificação e validação de forma dinâmica �
 
 Agora, assinale a alternativa que apresenta a resposta CORRETA:
 
-**Gabarito: Apenas I e II estão corretas.**
+**Gabarito: A) As afirmativas I, II e III estão corretas.**
 
 >A verificação consiste em analisar o software para ver se ele está sendo construído de acordo com o que foi especificado. A validação consiste em analisar o software construído para ver se ele atende às verdadeiras necessidades dos interessados. Assim, a pergunta-chave para a validação é “Estamos fazendo a coisa certa?”, enquanto que a pergunta-chave para a verificação é “Estamos fazendo a coisa do jeito certo”? (WAZLAWICK, 2013).<br><br>
 Conforme mencionamos, a verificação e a validação estão incluídas em um escopo mais abrangente e estão vinculadas à Garantia da Qualidade do Software (*Software Quality Assurance* ou SQA). Na visão de Pressman e Maxim (2016), a verificação e a validação incluem grande variedade de atividades de SQA, quais sejam as revisões técnicas, auditorias de qualidade, monitoramento do desempenho, simulação, estudo de viabilidade, teste de usabilidade e testes de aceitação e de instalação. Os autores complementam que, embora a aplicação de teste tenha um papel extremamente importante em V&V, muitas outras atividades são necessárias.<br><br>
